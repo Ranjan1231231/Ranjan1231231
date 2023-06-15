@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is JYOTI RANJAN SUTAR
-==========================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Jyoti+Ranjan;Nice+to+meet+you!)](https://git.io/typing-svg==========================================================================================================================================
 
 * 🌍  I'm based in Hyderabad, India
 * 🖥️  See my portfolio at [My portfolio.](http://ranjan1231231.github.io/portfolio/)
