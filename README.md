@@ -24,28 +24,16 @@
 # Socials 🌐
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/parasshenmare" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/jyoti-ranjan-s-2b742a21a/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin" height = 45 width = 52/>
   </a>
-  <a href="https://discord.gg/YKjrPUU3" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height = 45 width = 52/>
-  </a>
-  <a href="https://www.instagram.com/paras_shenmare" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" height = 45 width = 52/>
-  </a>
-  <a href="https://twitter.com/paras_shenmare" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="Twitter" height = 45 width = 52/>
-  </a>
-  <a href="https://www.youtube.com/@parasshenmare" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/475700/youtube-color.svg" alt="YouTube" height = 45 width = 52/>
-  </a>
-  <a href="https://wa.me/918830620995" target="_blank" rel="noopener noreferrer">
+ 
+ 
+  <a href="https://wa.me/+917981235295" target="_blank" rel="noopener noreferrer">
     <img src="https://www.svgrepo.com/show/475692/whatsapp-color.svg" alt="WhatsApp" height = 45 width = 52/>
   </a>
-  <a href="https://t.me/parasshenmare" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/354443/telegram.svg" alt="Telegram" height = 45 width = 52/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=shenmareparas@gmail.com" target="_blank" rel="noopener noreferrer">
+  
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=jyotiranjan1231231@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height = 45 width = 52/>
   </a>
 </div>
