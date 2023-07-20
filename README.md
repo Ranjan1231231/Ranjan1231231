@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=35&pause=1000&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Jyoti+Ranjan+Sutar;Nice+to+meet+you!)
 * 🌍  I'm based in Hyderabad, India
-* 🖥️  See my portfolio at [My portfolio.](http://ranjan1231231.github.io/portfolio/)
+* 🖥️  See my portfolio at [My portfolio.](https://ranjan1231231.github.io/PORTFOLIO/)
 * ✉️  You can contact me at [jyotiranjan1231231@gmail.com](mailto:jyotiranjan1231231@gmail.com)
 
 
